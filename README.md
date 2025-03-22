@@ -10,11 +10,15 @@
 없으면 공란으로 남겨둘 예정
 ()
 - []()
+[](https://github.com/davJ-star/AIRobot) - [메인](https://github.com/davJ-star/AIRobot/tree/main/david)
 
 
 
 ## 프로젝트 링크
 - []()
+- [](https://github.com/davJ-star/AIRobot/tree/main/david)
+- []()
+- [chatbot site](https://github.com/davJ-star/nextjs-ai-chatbot)
 - []()
 - []()
 - []()
