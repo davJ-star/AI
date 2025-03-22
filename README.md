@@ -22,6 +22,8 @@
 
 ## NLP(LLM 포함) 학습
 [LLM 폴더](https://github.com/davJ-star/NLP/tree/main/LLM)
+[IntroductionToNLP_Model](IntroductionToNLP_Model.md)
+
 
 ## ML
 - [80_32204075_정성욱_hw4Stock_Prediction.ipynb](https://colab.research.google.com/drive/1ohGAI0zh7OfVwlX9KoHIM4xtHu1o_-2j)
