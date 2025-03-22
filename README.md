@@ -5,15 +5,16 @@
 ### OpenCV
 - [OpenCV의 모든 것](https://github.com/davJ-star/AIRobot/blob/main/david/etc/computerVison/openCV_all.ipynb)
         - [참고](https://github.com/davJ-star/AIRobot/blob/main/david/etc/labelImg.md)
+### yolo(2dbb)
+- [CV-yolo로 mmyolo 학습 프로젝트](http://github.com/davJ-star/CV_yolo)
 
 ### 논문
 
 - [DeepLabv3+](https://github.com/davJ-star/AIRobot/blob/main/david/paper_Deeplabv3%2B.ipynb)
-          - [david/pytorch_vision_deeplabv3_resnet101](https://github.com/davJ-star/AIRobot/blob/main/david/pytorch_vision_deeplabv3_resnet101.ipynb)
-          - 
+  - [david/pytorch_vision_deeplabv3_resnet101](https://github.com/davJ-star/AIRobot/blob/main/david/pytorch_vision_deeplabv3_resnet101.ipynb)
+  - []()
 
 - [UNet](https://github.com/davJ-star/AIRobot/blob/main/david/paper_UNet.ipynb)
-- []()
 - []()
 
 
@@ -25,13 +26,19 @@
 
 
 ## 프로젝트 링크
-- []()
-- [](https://github.com/davJ-star/AIRobot/tree/main/david)
+- [2DSS](https://github.com/davJ-star/AIRobot/blob/main/david/autonomous-driving/project/2DSS/2dss_finetunning.ipynb) - [전체](https://github.com/davJ-star/AIRobot/tree/main/david/autonomous-driving/project/2DSS)
+- [2DBB*](https://github.com/davJ-star/AIRobot/blob/main/david/autonomous-driving/project/2DBB/2DBB.py) - [전체](https://github.com/davJ-star/AIRobot/tree/main/david/autonomous-driving/project/2DBB)
+  
 - [automousDriving_Competition_2dss](https://github.com/davJ-star/AIRobot/blob/main/david/automousDriving_Competition_2dss.ipynb)
+- [차선 탐지 모델 - OpenCV](https://github.com/davJ-star/AIRobot/blob/main/david/autonomous-driving/project/road_detection/roadLineDetection_implements.ipynb) - [전체 ](https://github.com/davJ-star/AIRobot/tree/main/david/autonomous-driving/project/road_detection)
+  
+- [ETRI_Fashion-How*](https://github.com/davJ-star/ETRI_Fashion-How)
+- [BlindSupportTool*](https://github.com/davJ-star/BlindSupportTool/tree/main/project)
+- [ViewTechInfoBridge*](https://github.com/davJ-star/view-tech-info-bridge)
+- [횡단보도/신호등 탐지 프로그램*](https://github.com/davJ-star/signalBoard)
+
 - [chatbot site](https://github.com/davJ-star/nextjs-ai-chatbot)
-- []()
-- []()
-- []()
+- [](https://github.com/davJ-star/AIRobot/tree/main/david)
 
 
 
