@@ -25,6 +25,13 @@
 
 ## ML
 - [80_32204075_정성욱_hw4Stock_Prediction.ipynb](https://colab.research.google.com/drive/1ohGAI0zh7OfVwlX9KoHIM4xtHu1o_-2j)
+- [ch07. Stock_Prediction.ipynb](https://colab.research.google.com/drive/1IZbtjvDIuaqxjDXkH1hz-WBP97j7whVz)
+- [hw2Code_기계학습 응용과 기초 neuralNetwork_descent](https://colab.research.google.com/drive/1DeVlciHa6McTaCycbUZbPgk75ZxMpu-P)
+- [iris_predict_decisionTree.ipynb](https://colab.research.google.com/drive/1G7dAKrzXtJkbKYuJFlENIBJjsLodteaJ)
+- [당뇨병 회귀와 의사결정트리](https://colab.research.google.com/drive/1Dj_hIblXIHoIc8YbMtTQWA4wH92EIS0e)
+- [고객 대출등급*](https://colab.research.google.com/drive/1GyezhxIFWziOfD5Wpq-jKwCw0GZ-ExsR#scrollTo=0FSUmswqnKV4)
+프로그래밍 언어사이의 연관 규칙 분석
+- [Developer_Code.ipynb](https://colab.research.google.com/drive/1r6i_towENDICryUhNiZKt-nEMTUH_wKW)
 
 ## 프로젝트 링크
 - [2DSS](https://github.com/davJ-star/AIRobot/blob/main/david/autonomous-driving/project/2DSS/2dss_finetunning.ipynb) - [전체](https://github.com/davJ-star/AIRobot/tree/main/david/autonomous-driving/project/2DSS)
