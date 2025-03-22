@@ -4,10 +4,9 @@
 ## CV학습
 ### OpenCV
 - [OpenCV의 모든 것](https://github.com/davJ-star/AIRobot/blob/main/david/etc/computerVison/openCV_all.ipynb)
-        - [참고](https://github.com/davJ-star/AIRobot/blob/main/david/etc/labelImg.md)
 ### 2dbb
 - [CV-yolo로 mmyolo 학습 프로젝트](http://github.com/davJ-star/CV_yolo)
-- [labeling과 객체 탐](https://github.com/davJ-star/AIRobot/blob/main/david/etc/labelImg.md)
+- [labeling과 객체 탐지](https://github.com/davJ-star/AIRobot/blob/main/david/etc/labelImg.md)
 
 ### 논문
 
@@ -19,8 +18,7 @@
 - []()
 
 
-[참고](https://github.com/davJ-star/AIRobot) - [메인](https://github.com/davJ-star/AIRobot/tree/main/david)
-
+[참고](https://github.com/davJ-star/AIRobot)
 
 ## NLP(LLM 포함) 학습
 [LLM 폴더](https://github.com/davJ-star/NLP/tree/main/LLM)
