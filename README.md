@@ -6,6 +6,7 @@
 
 #### TRAIN
 - [CIFAR-10 CNN포함 MINIST 데이터 학습 방법 적용*](https://colab.research.google.com/drive/1tTl1X_qyD9L76OhqnetKQ-rsHVpjDio9#scrollTo=k6LV-rGehbIa)
+- [mnist](https://colab.research.google.com/drive/1qnT1dwtMs6PpeSrS6MMxmutQHgtXp8mp)
 - [saving_and_loading_a_general_checkpoint](https://colab.research.google.com/github/PyTorchKorea/tutorials-kr/blob/master/docs/_downloads/dbcf5e6a5e95bf9f7a0e49e123c13b60/saving_and_loading_a_general_checkpoint.ipynb)
 - [what_is_state_dict](https://colab.research.google.com/github/PyTorchKorea/tutorials-kr/blob/master/docs/_downloads/597dbaac5c207608e108534fea081ff9/what_is_state_dict.ipynb)
 
@@ -20,6 +21,10 @@
 - [Bark 데모](https://colab.research.google.com/drive/1XI78AIqJ6un1G2X3gGCXx7y7jI5hXlQm)
 - [GradientDescent_Normal_Equation](https://colab.research.google.com/drive/1zdT5Zx9xyFLkWYkGBukEl7SEbO183Hi3)
 - [GradientDescent](https://colab.research.google.com/drive/1g-vX9EXVA1joW1EVKefHXWouLR-tWp1L)
+- [Normal_Equation](https://colab.research.google.com/drive/1PgHEoy3rO_VqRYfd_iFvE6Mbx7Ub-giL)
+- [mmyolo test](https://colab.research.google.com/drive/1NlKJ2iwGHey4BdvPCwMpIoG2qjTZBS8h)
+      - [object_detection_week1](https://colab.research.google.com/drive/1PgHEoy3rO_VqRYfd_iFvE6Mbx7Ub-giL)
+- 
 
 
 ### 2dbb
@@ -95,6 +100,7 @@
 
 LLM
 - [LLM baseline 코드 작성](https://colab.research.google.com/drive/14fCo6Ic_64pBp-Xn8zDrC3RCw11s_2rZ#scrollTo=146d3550-a0d9-4602-9c09-222953286b66)
+    - [LLM_Inference Baseline on CPU or GPU](https://colab.research.google.com/drive/1CN6yJ6LsuAmQ1HFBX_2f1jB3X_KdReqi)
 - [RAG with Ko-PlatYi-6B_ANALYSIS](https://colab.research.google.com/drive/1X-A3TEMAndXzgQd1tGgfxfqwnMV3S0T9)
 
 
