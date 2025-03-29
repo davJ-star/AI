@@ -52,7 +52,11 @@
 - [고객 대출등급*](https://colab.research.google.com/drive/1GyezhxIFWziOfD5Wpq-jKwCw0GZ-ExsR#scrollTo=0FSUmswqnKV4)
 프로그래밍 언어사이의 연관 규칙 분석
 - [Developer_Code.ipynb](https://colab.research.google.com/drive/1r6i_towENDICryUhNiZKt-nEMTUH_wKW)
-- 
+- []()
+    - [Boston_emsemble_voting](https://colab.research.google.com/drive/1-l4Bm_ZP2W2aqq4oeFNCbDzzTFI6uLjv)
+    - [Boston_predict_LinearRegression 토대로 핵심 컬럼 추](https://colab.research.google.com/drive/19wMf-3PjJtVgYIr6vHMoMEIoOZzb5hZh)
+  
+- ㅇ
 
 ### 랩실 
 [논문 실험](https://colab.research.google.com/drive/19qcECTLxXeHMjqghSXCXLNsalCzojNoR#scrollTo=b59H2ViddBsv)
