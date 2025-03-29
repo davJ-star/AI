@@ -25,7 +25,13 @@
   - []()
 
 - [UNet](https://github.com/davJ-star/AIRobot/blob/main/david/paper_UNet.ipynb)
-- []()
+    - []()
+    - [UNet_example2](https://colab.research.google.com/drive/1piACFZXJvaxgG07t4_QBLCEpsek4SIHC)
+    - [UNet_example3 - dataset](https://colab.research.google.com/drive/1mlC5tWVhYThXAa2Mfafus-Q_69RPMyg5)
+ 
+
+- [hustvl_yolop](https://colab.research.google.com/drive/1XgtyK83an5a4PWxowQKa14RdYGo6MHud)
+- [pointNet](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/pointnet.ipynb)
 
 
 [참고](https://github.com/davJ-star/AIRobot)
@@ -49,7 +55,7 @@
 - 
 
 ### 랩실 
-[]()
+[논문 실험](https://colab.research.google.com/drive/19qcECTLxXeHMjqghSXCXLNsalCzojNoR#scrollTo=b59H2ViddBsv)
 
 - [additional_download_(14-19_malware)-checkpoint.ipynb](https://colab.research.google.com/drive/1C612hhsS9r78-L1HytfTMM9fyXX8yzzo#scrollTo=aKGAJWkw_71y)
 - 
