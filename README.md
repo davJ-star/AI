@@ -58,7 +58,7 @@
 [논문 실험](https://colab.research.google.com/drive/19qcECTLxXeHMjqghSXCXLNsalCzojNoR#scrollTo=b59H2ViddBsv)
 
 - [additional_download_(14-19_malware)-checkpoint.ipynb](https://colab.research.google.com/drive/1C612hhsS9r78-L1HytfTMM9fyXX8yzzo#scrollTo=aKGAJWkw_71y)
-- 
+- [참고](https://colab.research.google.com/drive/1OmVJovGp-YT35RHlWGtpFE2pCfh0ktw_)
 
 ## 프로젝트 링크
 - [2DSS](https://github.com/davJ-star/AIRobot/blob/main/david/autonomous-driving/project/2DSS/2dss_finetunning.ipynb) - [전체](https://github.com/davJ-star/AIRobot/tree/main/david/autonomous-driving/project/2DSS)
