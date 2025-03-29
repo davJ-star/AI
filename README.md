@@ -19,6 +19,7 @@
 - [E2E-TensorflowTTS-KSS](https://colab.research.google.com/drive/1eDYGIkchPiXpPeKpHt6IE9T7VoD0CbEo)
 - [Bark 데모](https://colab.research.google.com/drive/1XI78AIqJ6un1G2X3gGCXx7y7jI5hXlQm)
 - [GradientDescent_Normal_Equation](https://colab.research.google.com/drive/1zdT5Zx9xyFLkWYkGBukEl7SEbO183Hi3)
+- [GradientDescent](https://colab.research.google.com/drive/1g-vX9EXVA1joW1EVKefHXWouLR-tWp1L)
 
 
 ### 2dbb
