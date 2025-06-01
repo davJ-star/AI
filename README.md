@@ -202,7 +202,7 @@ AI/
 ├── 📁 nlp-llm/                    # 자연어 처리
 │   ├── chatbot-systems/           # 챗봇 시스템
 │   ├── rag-implementations/       # RAG 구현
-│   └── speech-synthesis/          # 음성 합성
+│   └── 
 ├── 📁 machine-learning/           # 머신러닝
 │   ├── predictive-analytics/      # 예측 분석
 │   ├── classification/            # 분류 모델
