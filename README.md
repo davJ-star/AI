@@ -45,7 +45,7 @@ AI 개발자로서 **Computer Vision**, **Deep Learning**, **자율주행 시스
 **🎯 Impact:** 접근성 향상을 위한 사회적 가치 창출
 
 **Key Features:**
-- [블럭 객체 탐지]()
+- [블럭 객체 탐지]() - 음악 블럭 유형 감지 및 음악 생성 로직
 - [블럭 촬영 위치 안내](https://colab.research.google.com/drive/16Iyb15a9kykb1uJZghyv-I4hDLL7Mbc5) - 정확한 위치 가이드
 - [종이 꼭짓점 인식](https://colab.research.google.com/drive/1-Ab7ucyEpAVXEp-NHUBeJ6xzh66NKrx3) - 문서 스캔 보조
 
