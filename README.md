@@ -37,20 +37,31 @@ AI 개발자로서 **Computer Vision**, **Deep Learning**, **자율주행 시스
 [🔗 Live Demo](#) | [📝 Documentation](#) | [📊 Results](#)
 
 ---
+### 👁️ [hUMMINGBLOCKS]()
+> **블록코딩으로 만드는 음악 학습**
 
+**🛠️ Tech Stack:** PyTorch, OpenCV, TensorFlow, Mobile Deployment  
+**📊 Results:** 92% 객체 인식 정확도, 실시간 음성 피드백  
+**🎯 Impact:** 접근성 향상을 위한 사회적 가치 창출
+
+**Key Features:**
+- [블럭 객체 탐지]()
+- [블럭 촬영 위치 안내](https://colab.research.google.com/drive/16Iyb15a9kykb1uJZghyv-I4hDLL7Mbc5) - 정확한 위치 가이드
+- [종이 꼭짓점 인식](https://colab.research.google.com/drive/1-Ab7ucyEpAVXEp-NHUBeJ6xzh66NKrx3) - 문서 스캔 보조
+
+
+---
 ### 👁️ [Vision Assistance System](https://github.com/davJ-star/BlindSupportTool)
 > **시각장애인을 위한 AI 기반 보조 시스템**
 
 **🛠️ Tech Stack:** PyTorch, OpenCV, TensorFlow, Mobile Deployment  
 **📊 Results:** 94% 객체 인식 정확도, 실시간 음성 피드백  
-**🎯 Impact:** 접근성 향상을 위한 사회적 가치 창출
+**🎯 Impact:** 임베디드 기기를 접목한 AI 서비스
 
 **Key Features:**
 - 실시간 객체 탐지 및 분류
 - 텍스트 음성 변환 통합
-- [블럭 촬영 위치 안내](https://colab.research.google.com/drive/16Iyb15a9kykb1uJZghyv-I4hDLL7Mbc5) - 정확한 위치 가이드
-- [종이 꼭짓점 인식](https://colab.research.google.com/drive/1-Ab7ucyEpAVXEp-NHUBeJ6xzh66NKrx3) - 문서 스캔 보조
-
+- llm
 ---
 
 ## 🧠 Technical Expertise
@@ -129,6 +140,7 @@ AI 개발자로서 **Computer Vision**, **Deep Learning**, **자율주행 시스
 
 ### 📈 Project Impact
 - **자율주행 시스템** - 경진대회 참가 및 실제 도로 테스트
+- **허밍블럭스** - 블록코딩으로 만드는 음악 학습앱으로 객체 탐지 및 이동 피드백(그외 시각장애인을 위한 접근성과 피드백)
 - **시각장애인 보조 시스템** - 접근성 향상을 위한 사회적 가치 창출
 - **AI 챗봇 시스템** - 고객 지원 자동화로 업무 효율성 75% 향상
 - **의료 AI 시스템** - 진단 정확도 94% 달성
