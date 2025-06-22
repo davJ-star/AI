@@ -88,7 +88,7 @@ AI 개발자로서 **Computer Vision**, **Deep Learning**, **자율주행 시스
 **🤖 Specialties:** RAG Systems, Chatbots, Text Generation, Speech Synthesis  
 **🛠️ Tools:** LangChain, Transformers, OpenAI API, Hugging Face  
 **📚 Projects:**
-- **[NLP/LLM 기반 추천 및 예측 모델 개발]()** -  NLP/LLM 경진대회 (ETRI & Dacon) 모델 구현
+- **[NLP/LLM 기반 추천 및 예측 모델 개발](https://github.com/davJ-star/NLP/blob/main/README.md)** -  NLP/LLM 경진대회 (ETRI & Dacon) 모델 구현
 - **[Transformers Implementation](https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/huggingface_pytorch-transformers.ipynb)** - Attention 메커니즘 구현
 - **[E2E TensorFlow TTS](https://colab.research.google.com/drive/1eDYGIkchPiXpPeKpHt6IE9T7VoD0CbEo)** - 한국어 음성 합성
 - **[Bark Demo](https://colab.research.google.com/drive/1XI78AIqJ6un1G2X3gGCXx7y7jI5hXlQm)** - 고품질 음성 생성
@@ -109,7 +109,7 @@ AI 개발자로서 **Computer Vision**, **Deep Learning**, **자율주행 시스
 ### 🏗️ Production Systems
 
 #### Computer Vision Applications
-- **[ETRI Fashion-How](https://github.com/davJ-star/ETRI_Fashion-How)** - AI 기반 패션 분석 시스템
+- **[ETRI Fashion-How](https://github.com/davJ-star/NLP/blob/main/README.md)** - AI 기반 패션 분석 시스템
 - **[Traffic Detection System](https://github.com/davJ-star/signalBoard)** - 횡단보도/신호등 실시간 탐지
 - **[ViewTechInfoBridge](https://github.com/davJ-star/view-tech-info-bridge)** - 기술 정보 시각화 플랫폼
 
